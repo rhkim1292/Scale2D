@@ -1,0 +1,19 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln
+
+# Unreal Engine builds
+Binaries/
+Build/
+Saved/
+Intermediate/
+DerivedDataCache/
+
+# Don't ignore .uproject or source code
+!*.uproject
+!Source/
+
+# Exclude crash reports
+*.log
