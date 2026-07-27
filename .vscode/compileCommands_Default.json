@@ -1,0 +1,18 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\Scale2D\\Source\\Scale2D\\GameplayAbilitySystem\\Characters\\CPP_Scale2DPaperCharacterBase.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\Scale2D\\.vscode\\compileCommands_Default\\Scale2D.0.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\Scale2D\\Source\\Scale2D\\Scale2D.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\Scale2D\\.vscode\\compileCommands_Default\\Scale2D.0.rsp"
+		],
+		"directory": "C:\\UnrealSource\\UnrealEngine\\Engine\\Source"
+	}
+]
