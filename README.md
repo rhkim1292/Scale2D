@@ -86,4 +86,4 @@ Kenney (https://kenney.nl/) \
 unTied Games (https://untiedgames.itch.io) \
 Dream Mix (https://dreammixgames.itch.io) \
 UkiyoMoji (https://www.1001fonts.com/users/UkiyoMoji/) \
-Kronbits (https://kronbits.itch.io/) \
+Kronbits (https://kronbits.itch.io/)
